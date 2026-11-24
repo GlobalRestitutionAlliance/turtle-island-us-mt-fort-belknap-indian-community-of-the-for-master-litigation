@@ -1,6 +1,6 @@
 # US MT FORT BELKNAP INDIAN COMMUNITY OF THE FOR - Litigation Framework
 
-**Template:** GRA litigation framework
+**Template:** CUBA-adapted framework
 **Generated:** 2026-11-21
 **Status:** SCAFFOLD - verification required. No fabricated citations.
 
